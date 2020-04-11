@@ -1,6 +1,4 @@
 # Prakriti Kharel
-# 101031299
-# -- AI - A2
 import random
 
 #final array that stores the mancala board with the correct values
